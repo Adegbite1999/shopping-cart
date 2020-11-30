@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Adegbite1999/shopping-cart/static/css/main.149b53ed.chunk.css",
+    "main.js": "/Adegbite1999/shopping-cart/static/js/main.68464194.chunk.js",
+    "main.js.map": "/Adegbite1999/shopping-cart/static/js/main.68464194.chunk.js.map",
+    "runtime-main.js": "/Adegbite1999/shopping-cart/static/js/runtime-main.6daa5c0f.js",
+    "runtime-main.js.map": "/Adegbite1999/shopping-cart/static/js/runtime-main.6daa5c0f.js.map",
+    "static/js/2.6d09e8a1.chunk.js": "/Adegbite1999/shopping-cart/static/js/2.6d09e8a1.chunk.js",
+    "static/js/2.6d09e8a1.chunk.js.map": "/Adegbite1999/shopping-cart/static/js/2.6d09e8a1.chunk.js.map",
+    "static/js/3.17d40cd7.chunk.js": "/Adegbite1999/shopping-cart/static/js/3.17d40cd7.chunk.js",
+    "static/js/3.17d40cd7.chunk.js.map": "/Adegbite1999/shopping-cart/static/js/3.17d40cd7.chunk.js.map",
+    "index.html": "/Adegbite1999/shopping-cart/index.html",
+    "static/css/main.149b53ed.chunk.css.map": "/Adegbite1999/shopping-cart/static/css/main.149b53ed.chunk.css.map",
+    "static/js/2.6d09e8a1.chunk.js.LICENSE.txt": "/Adegbite1999/shopping-cart/static/js/2.6d09e8a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6daa5c0f.js",
+    "static/js/2.6d09e8a1.chunk.js",
+    "static/css/main.149b53ed.chunk.css",
+    "static/js/main.68464194.chunk.js"
+  ]
+}
